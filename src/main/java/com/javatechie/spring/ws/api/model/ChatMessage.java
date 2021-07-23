@@ -33,4 +33,9 @@ public class ChatMessage {
 		this.type = type;
 	}
 
+	// public String toString() {
+
+	// return content + " / " + sender;
+
+	// }
 }
